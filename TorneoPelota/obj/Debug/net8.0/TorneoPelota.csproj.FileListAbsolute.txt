@@ -1,0 +1,14 @@
+C:\Users\juans\Downloads\TorneoPelota\bin\Debug\net8.0\TorneoPelota.exe
+C:\Users\juans\Downloads\TorneoPelota\bin\Debug\net8.0\TorneoPelota.deps.json
+C:\Users\juans\Downloads\TorneoPelota\bin\Debug\net8.0\TorneoPelota.runtimeconfig.json
+C:\Users\juans\Downloads\TorneoPelota\bin\Debug\net8.0\TorneoPelota.dll
+C:\Users\juans\Downloads\TorneoPelota\bin\Debug\net8.0\TorneoPelota.pdb
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.AssemblyInfoInputs.cache
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.AssemblyInfo.cs
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.dll
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\refint\TorneoPelota.dll
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.pdb
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\TorneoPelota.genruntimeconfig.cache
+C:\Users\juans\Downloads\TorneoPelota\obj\Debug\net8.0\ref\TorneoPelota.dll

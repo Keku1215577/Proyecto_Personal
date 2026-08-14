@@ -1,0 +1,14 @@
+C:\Users\juans\Downloads\Tarea_Padre_Hija\bin\Debug\net8.0\Tarea_Padre_Hija.exe
+C:\Users\juans\Downloads\Tarea_Padre_Hija\bin\Debug\net8.0\Tarea_Padre_Hija.deps.json
+C:\Users\juans\Downloads\Tarea_Padre_Hija\bin\Debug\net8.0\Tarea_Padre_Hija.runtimeconfig.json
+C:\Users\juans\Downloads\Tarea_Padre_Hija\bin\Debug\net8.0\Tarea_Padre_Hija.dll
+C:\Users\juans\Downloads\Tarea_Padre_Hija\bin\Debug\net8.0\Tarea_Padre_Hija.pdb
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.AssemblyInfoInputs.cache
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.AssemblyInfo.cs
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.dll
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\refint\Tarea_Padre_Hija.dll
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.pdb
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\Tarea_Padre_Hija.genruntimeconfig.cache
+C:\Users\juans\Downloads\Tarea_Padre_Hija\obj\Debug\net8.0\ref\Tarea_Padre_Hija.dll

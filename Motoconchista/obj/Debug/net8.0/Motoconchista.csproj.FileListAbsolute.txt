@@ -1,0 +1,14 @@
+C:\Users\juans\Downloads\Motoconchista\bin\Debug\net8.0\Motoconchista.exe
+C:\Users\juans\Downloads\Motoconchista\bin\Debug\net8.0\Motoconchista.deps.json
+C:\Users\juans\Downloads\Motoconchista\bin\Debug\net8.0\Motoconchista.runtimeconfig.json
+C:\Users\juans\Downloads\Motoconchista\bin\Debug\net8.0\Motoconchista.dll
+C:\Users\juans\Downloads\Motoconchista\bin\Debug\net8.0\Motoconchista.pdb
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.AssemblyInfoInputs.cache
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.AssemblyInfo.cs
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.dll
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\refint\Motoconchista.dll
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.pdb
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\Motoconchista.genruntimeconfig.cache
+C:\Users\juans\Downloads\Motoconchista\obj\Debug\net8.0\ref\Motoconchista.dll
